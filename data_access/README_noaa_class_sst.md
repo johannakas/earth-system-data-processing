@@ -15,7 +15,7 @@ It is first necessary to specify a time period. The advanced search function is 
 
 ### Final choice: NESDIS SST14NA dataset
 Using this data, a closer look at how sea surface temperatures influence hurricane development in the Atlantic was taken. As the new data source only provided data up to 2016, the time period of interest was changed to the 2005 Atlantic Hurricane Season. This season lasted from 8 June 2005 to 6 January 2006. This season is historically significant (e.g. Hurricanes Katrina, Rita and Wilma).
-A note on the website says that the product has been discontinued and that the alternative product is: Geo-Polar 5 km Global Night-time Only Blended SST. A big advantage of this dataset was, that the format netCDF was available and compatible with scientific python libraries (e.g. xarray).
+A note on the website says that the product has been discontinued and that the alternative product is: Geo-Polar 5 km Global Night-time Only Blended SST. A big advantage of this dataset was, that the format netCDF was available and compatible with scientific python libraries (e.g. xarray). The used dataset can be also found in the folder for easy access. 
 
 Please note: Adjusting the time period based on dataset availability is not ideal in real research. However, for this exercise, the workflow remains valid and transferable to other datasets.
 
